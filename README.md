@@ -1,4 +1,4 @@
-# Game - Kslotski (Terminal Version)
+# Game - Kslotski (Terminal and Pygame Version)
 
 This project was developed for the "Elements of Artificial Intelligence and Data Science" course and aims to **develop and implement a solitaire game**. The project should include the use of **heuristic search methods and uninformed search methods** that should be able to **solve different versions or levels of this game** and a **graphical interface.**
 
