@@ -60,8 +60,8 @@ Klotski is a version of the "PuzzlePacked IQ games", in which the objective of t
 - **Hint function**, which varies depending on the search algorithm used, which shows the next possible move, just type 'hint'.
 
 **In Pygame Mode:**
-Same features, the only difference is that you have buttons to use the features, no need to type anything.
-**New Feature:** **<u>Colorblind Mode</u>** - The pieces may or not be identified with numbers, to help better distinguish them.
+- Same features, the only difference is that you have buttons to use the features, no need to type anything.
+- **New Feature:** **<u>Colorblind Mode</u>** - The pieces may or not be identified with numbers, to help better distinguish them.
 
 ## About the repository:
 In the folder <u>"Klotski"</u>, you can find several files, each of which is assigned to a specific set of tasks, which are:
@@ -93,7 +93,7 @@ Note: The development of the search algorithms' operating mode is based on the w
 This course is part of the **<u>second semester</u>** of the **<u>first year</u>** of the **<u>Bachelor's Degree in Artificial Intelligence and Data Science</u>** at **<u>FCUP</u>** and **<u>FEUP</u>** in the academic year 2022/2023. You can find more information about this course at the following link:
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
-  <a href="hhttps://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=507945">
+  <a href="https://sigarra.up.pt/fcup/pt/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=507945">
     <img alt="Link to Course" src="https://img.shields.io/badge/Link_to_Course-0077B5?style=for-the-badge&logo=logoColor=white" />
   </a>
 
