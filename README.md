@@ -6,9 +6,8 @@ This project was developed for the "Elements of Artificial Intelligence and Data
 - [Magda Costa](https://github.com/Maguids)
 - Sofia Machado
 
-
-
 <br></br>
+
 ## Programming Language:
 
 <div style = "display: inline_block"><br/>
@@ -16,6 +15,7 @@ This project was developed for the "Elements of Artificial Intelligence and Data
 </div><br/>
 
 <br></br>
+
 ## Requirements:
 
 - python version 3.8.10
@@ -27,12 +27,16 @@ In order to install pygame run:
 pip install pygame==1.9.6
 ```
 
+<br></br>
+
 ## Running the Game:
 In order to start the game, just run:
 
 ```bash 
 python3 start.py
 ```
+
+<br></br>
 
 ## About the Game:
 
@@ -82,6 +86,7 @@ In the folder <u>"Klotski"</u>, you can find several files, each of which is ass
 
 Note: The development of the search algorithms' operating mode is based on the way the game was created
 
+<br></br>
 
 ## Link to the course: 
 
